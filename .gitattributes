@@ -1,0 +1,2 @@
+*.exe filter=lfs diff=lfs merge=lfs -text
+files/AMD.exe filter=lfs diff=lfs merge=lfs -text
