@@ -1,0 +1,18 @@
+{
+  "WPFInstallQFlipper": {
+		"category": "Utilities",
+		"choco": "qflipper",
+		"content": "QFlipper",
+		"description": "QFlipper is a software tool designed for managing and updating devices from Flipper Zero, helping users to install custom firmware and manage device functionality.",
+		"link": "https://flipperzero.one/",
+		"winget": "FlipperDevices.QFlipper"
+	},
+"WPFInstallWinToys": {
+		"category": "Utilities",
+		"choco": "wintoys",
+		"content": "WinToys",
+		"description": "WinToys is a collection of utilities for Windows 10/11 that enhances productivity by providing easy access to advanced system functions and tweaks.",
+		"link": "https://github.com/PhilippeDumas/WinToys",
+		"winget": "WinToys"
+	}
+}
