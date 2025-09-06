@@ -3,7 +3,7 @@
 		"category": "Utilities",
 		"choco": "roboform",
 		"content": "RoboForm",
-		"description": RoboForm securely stores all of your passwords and logs you in with a single click or tap.",
+		"description": "RoboForm securely stores all of your passwords and logs you in with a single click or tap.",
 		"link": "https://www.roboform.com/",
 		"winget": "SiberSystems.RoboForm"
 	},
@@ -11,7 +11,7 @@
 		"category": "Utilities",
 		"choco": "cursoride",
 		"content": "Cursors",
-		"description": The AI Code Editor.",
+		"description": "The AI Code Editor.",
 		"link": "https://cursor.com",
 		"winget": "Anysphere.Cursor"
 	}
